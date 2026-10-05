@@ -1,0 +1,8 @@
+com\kodari\dailyquotes\util\PlaceholderUtil.class
+com\kodari\dailyquotes\DailyQuotesPlugin.class
+com\kodari\dailyquotes\task\HourlyBroadcastTask.class
+com\kodari\dailyquotes\util\ColorUtil.class
+com\kodari\dailyquotes\listener\JoinListener.class
+com\kodari\dailyquotes\command\DailyQuotesCommand.class
+com\kodari\dailyquotes\listener\JoinListener$QuoteParts.class
+com\kodari\dailyquotes\config\ConfigManager.class

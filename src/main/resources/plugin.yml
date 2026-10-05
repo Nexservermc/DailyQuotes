@@ -1,0 +1,19 @@
+name: DailyQuotes
+version: 1.2.0
+main: com.kodari.dailyquotes.DailyQuotesPlugin
+api-version: '1.21'
+author: Nice_Leo_
+description: 每日一言、整点报时和入服公告插件
+softdepend:
+  - PlaceholderAPI
+commands:
+  dailyquotes:
+    description: 重载每日一言插件配置
+    usage: /dailyquotes reload
+    aliases:
+      - dq
+    permission: dailyquotes.admin
+permissions:
+  dailyquotes.admin:
+    description: 允许重载每日一言插件配置
+    default: op
