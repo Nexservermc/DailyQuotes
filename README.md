@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Paper-blue)](https://papermc.io)
 [![API](https://img.shields.io/badge/API-1.21%2B-green)](#适用环境)
 [![Java](https://img.shields.io/badge/Java-21-orange)](#适用环境)
-[![Version](https://img.shields.io/badge/Version-1.2.0-brightgreen)](#更新日志)
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)]()
 
 ---
 
